@@ -9,6 +9,7 @@ body {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 16px;
     line-height: 24px;
+    background: url("images/Background.jpg");
 }
 
 h1 {
